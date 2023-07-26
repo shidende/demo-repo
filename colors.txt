@@ -1,2 +1,4 @@
 Red
 Orange
+Yellow
+Green
