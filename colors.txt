@@ -2,7 +2,7 @@ Red
 Orange
 Yellow
 Green
-Blue
+Blau
 Indigo
 Magenta
 Shining colours?
